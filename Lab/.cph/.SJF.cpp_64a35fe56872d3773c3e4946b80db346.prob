@@ -1,0 +1,1 @@
+{"name":"Local: SJF","url":"d:\\Sem4\\OS\\Lab\\SJF.cpp","tests":[{"id":1642154875779,"input":"5\n6 2\n2 5\n8 1\n3 0\n4 4","output":""},{"id":1642155515833,"input":"5\n4 0\n2 1\n8 2\n1 3\n9 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Sem4\\OS\\Lab\\SJF.cpp","group":"local","local":true}

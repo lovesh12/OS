@@ -1,0 +1,1 @@
+{"name":"Local: RAGWithCycleDetection","url":"d:\\Sem4\\OS\\Lab\\RAGWithCycleDetection.cpp","tests":[{"id":1648177759900,"input":"2 2\n1 2\n2 1","output":""},{"id":1648205326208,"input":"5 5\n2 1 4 5 3\n1 3 5 2 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Sem4\\OS\\Lab\\RAGWithCycleDetection.cpp","group":"local","local":true}

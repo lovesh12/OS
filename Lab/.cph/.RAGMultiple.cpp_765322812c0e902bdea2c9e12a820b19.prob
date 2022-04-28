@@ -1,0 +1,1 @@
+{"name":"Local: RAGMultiple","url":"d:\\Sem4\\OS\\Lab\\RAGMultiple.cpp","tests":[{"id":1648123406678,"input":"5 2\n2\n1 1\n3\n2 2 3\n1\n5 \n2\n3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Sem4\\OS\\Lab\\RAGMultiple.cpp","group":"local","local":true}

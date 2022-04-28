@@ -1,0 +1,1 @@
+{"name":"Local: WaitForGraph","url":"d:\\Sem4\\OS\\Lab\\WaitForGraph.cpp","tests":[{"id":1648123445301,"input":"5 5\n1 2\n1 1\n1 4\n1 5\n1 3\n1 1\n3 3 4 5\n1 5\n1 2\n0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Sem4\\OS\\Lab\\WaitForGraph.cpp","group":"local","local":true}

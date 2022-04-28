@@ -1,0 +1,1 @@
+{"name":"Local: Disk Clook","url":"d:\\Sem4\\OS\\Lab\\Disk Clook.cpp","tests":[{"id":1651153961757,"input":"200\n8\n176 79 34 60 92 11 41 114\n50\n49","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Sem4\\OS\\Lab\\Disk Clook.cpp","group":"local","local":true}

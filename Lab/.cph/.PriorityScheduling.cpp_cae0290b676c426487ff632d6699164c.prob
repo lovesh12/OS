@@ -1,0 +1,1 @@
+{"name":"Local: PriorityScheduling","url":"d:\\Sem4\\OS\\Lab\\PriorityScheduling.cpp","tests":[{"id":1642759039473,"input":"5\n3 10 0\n5 6 0\n2 2 0\n1 4 0\n4 8 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Sem4\\OS\\Lab\\PriorityScheduling.cpp","group":"local","local":true}

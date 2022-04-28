@@ -1,0 +1,1 @@
+{"name":"Local: Memory Fits","url":"d:\\Sem4\\OS\\Lab\\Memory Fits.cpp","tests":[{"id":1651153975857,"input":"5\n10 1\n20 0\n30 1\n40 1\n50 0\n3\n0 8\n1 30\n2 20","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Sem4\\OS\\Lab\\Memory Fits.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: PrioritySchedulingPreemptive","url":"d:\\Sem4\\OS\\Lab\\PrioritySchedulingPreemptive.cpp","tests":[{"id":1642923952236,"input":"5 \n3 4 0\n2 3 1 \n1 1 2\n5 5 3\n5 2 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Sem4\\OS\\Lab\\PrioritySchedulingPreemptive.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: LRTF","url":"d:\\Sem4\\OS\\Lab\\LRTF.cpp","tests":[{"id":1648123352044,"input":"4\n2 1\n4 2\n6 3\n8 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Sem4\\OS\\Lab\\LRTF.cpp","group":"local","local":true}

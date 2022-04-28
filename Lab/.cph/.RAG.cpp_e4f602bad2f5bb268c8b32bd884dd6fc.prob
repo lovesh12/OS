@@ -1,0 +1,1 @@
+{"name":"Local: RAG","url":"d:\\Sem4\\OS\\Lab\\RAG.cpp","tests":[{"id":1648123386115,"input":"2 2\n1 2\n2 1","output":""},{"id":1648123396738,"input":"5 5\n2 1 4 5 3\n1 3 5 2 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Sem4\\OS\\Lab\\RAG.cpp","group":"local","local":true}
